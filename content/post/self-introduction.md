@@ -1,7 +1,7 @@
 ---
 title: "自己紹介"
 date: 2021-06-17T01:17:01+09:00
-draft: true
+draft: false
 ---
 
 こんにちは kazuki と申します。

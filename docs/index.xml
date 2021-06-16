@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>kazuki saito</copyright>
-    <lastBuildDate>Wed, 16 Jun 2021 22:57:54 +0900</lastBuildDate><atom:link href="https://kazu-ki-saito.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jun 2021 01:17:01 +0900</lastBuildDate><atom:link href="https://kazu-ki-saito.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自己紹介</title>
+      <link>https://kazu-ki-saito.github.io/post/self-introduction/</link>
+      <pubDate>Thu, 17 Jun 2021 01:17:01 +0900</pubDate>
+      
+      <guid>https://kazu-ki-saito.github.io/post/self-introduction/</guid>
+      <description>こんにちは kazuki と申します。 自己紹介 プロフィール 仕事 IT系 好物 ウイスキー ワイン 趣味 サウナ アロマ 身長 169cm 体重 66kg 顔は丸顔、イケメンではない。ほんとたま</description>
+    </item>
+    
     <item>
       <title>Helloworld</title>
       <link>https://kazu-ki-saito.github.io/post/helloworld/</link>
