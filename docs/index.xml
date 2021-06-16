@@ -6,6 +6,16 @@
     <description>Recent content on Kazuki&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>kazuki saito</copyright><atom:link href="https://kazu-ki-saito.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>kazuki saito</copyright>
+    <lastBuildDate>Wed, 16 Jun 2021 22:57:54 +0900</lastBuildDate><atom:link href="https://kazu-ki-saito.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld</title>
+      <link>https://kazu-ki-saito.github.io/post/helloworld/</link>
+      <pubDate>Wed, 16 Jun 2021 22:57:54 +0900</pubDate>
+      
+      <guid>https://kazu-ki-saito.github.io/post/helloworld/</guid>
+      <description>ブログを始めました こんにちは kazuki と申します。 始めた理由はアウトプットをする事で、得た知識等が再認識できると思ったからです。 文字数は少ないと思い</description>
+    </item>
+    
   </channel>
 </rss>
