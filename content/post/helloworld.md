@@ -1,7 +1,7 @@
 ---
 title: "Helloworld"
 date: 2021-06-16T22:57:54+09:00
-draft: true
+draft: false
 ---
 
 # ブログを始めました
